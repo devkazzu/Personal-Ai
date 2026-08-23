@@ -1,0 +1,6 @@
+{
+  "name": "AI Personal OS",
+  "description": "A private AI operating system for your digital life with chat, long-term memory, tasks, notes, calendar, document brain, and autonomous agent reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
