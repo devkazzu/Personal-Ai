@@ -24,8 +24,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devkazzu&show_icons=true)
 
 ## 📫 Connect With Me
 
 GitHub: https://github.com/devkazzu
+Insta : https://www.instagram.com/zenitachi1?igsi=MXM1MzF3bmdra28xOA==
